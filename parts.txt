@@ -1,4 +1,3 @@
-Partlist exported from /Users/naohiroiida/Dropbox/eagle/201711sony/FE1-1S/FE1-1S.sch at 2018/02/11 22:12
 
 Qty Value  Device       Package        Parts                                                                                                                                                                                                     Description         
 20         SMD2         SMD1,27-2,54   DOWN_D+1, DOWN_D+2, DOWN_D+3, DOWN_D+4, DOWN_D-1, DOWN_D-2, DOWN_D-3, DOWN_D-4, DOWN_GND1, DOWN_GND2, DOWN_GND3, DOWN_GND4, DOWN_VBAS1, DOWN_VBAS2, DOWN_VBAS3, DOWN_VBAS4, UP_D+, UP_D-, UP_GND, UP_VBAS SMD PAD             
